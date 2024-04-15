@@ -1,0 +1,13 @@
+h1 {
+  color: cyan;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+}
+ul,
+ol {
+  color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+a{text-align: center;}
